@@ -16,5 +16,5 @@ else:
     print("Odd Number")
     enna
     so what
-    saavu
+    konruva
     i am the linf
