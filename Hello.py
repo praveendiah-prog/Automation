@@ -7,7 +7,7 @@ print(is_even(10))  # True
 print(is_even(7))   # False
 num = int(input("Enter a number: "))
 if num % 2 == 0:
-    eiiiii
+    purila
     print("Even Number")
 else:
     great
