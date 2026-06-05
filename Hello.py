@@ -10,4 +10,8 @@ num = int(input("Enter a number: "))
 if num % 2 == 0:
     print("Even Number")
 else:
+    so what
+    the fuc
     print("Odd Number")
+Hey 
+I am coing form chnges branch
