@@ -1,2 +1,2 @@
 HI am from gitii
-Hello wor
+Hello world
