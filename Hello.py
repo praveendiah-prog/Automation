@@ -6,7 +6,6 @@ def is_even(num):
 print(is_even(10))  # True
 print(is_even(7))   # False
 num = int(input("Enter a number: "))
-Bahu
 if num % 2 == 0:
     print("Even Number")
 else:
@@ -14,5 +13,6 @@ else:
     bdhe
     hello
     print("Odd Number")
+    enna
     so what
     i am the linf
